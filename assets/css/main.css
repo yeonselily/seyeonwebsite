@@ -2208,6 +2208,18 @@ input, select, textarea {
 				font-size: 1.5em;
 			}
 
+			ul.icons li .icon.x-logo:before {
+				content: none;
+			}
+
+			ul.icons li .icon.x-logo .x-logo-mark {
+				width: 1.5em;
+				height: 1.5em;
+				fill: currentColor;
+				vertical-align: -0.125em;
+				display: inline-block;
+			}
+
 /* Labeled Icons */
 
 	ul.labeled-icons {
